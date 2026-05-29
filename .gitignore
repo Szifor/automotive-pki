@@ -1,0 +1,7 @@
+keys/private.pem
+keys/aes.key
+vecu-docker/certs/aes.key
+firmware/audio.enc
+firmware/audio.sig
+firmware/audio.sig.enc
+firmware/audio.dec
